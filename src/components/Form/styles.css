@@ -1,0 +1,30 @@
+.paper {
+  max-width: 100%;
+  padding: 1em;
+}
+.paper .logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.paper .logo img{
+  width: 100px;
+}
+
+.paper img{
+  width:"100px";
+  height:"100px"
+}
+
+.paper .box{ 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+}
+.paper div Button {
+  padding: 1em;
+  width: 15%;
+  height: 40px;
+}

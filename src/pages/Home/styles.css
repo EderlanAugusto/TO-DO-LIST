@@ -1,0 +1,17 @@
+.Container {
+  max-width:"20%" ;
+  background-color: red;
+}
+.divItem {
+  margin-top: '1em';
+  background-color: red;
+}
+.total{
+  display: flex;
+  align-content: space-around;
+  align-items: baseline;
+}
+.title-total{
+ color: black;
+ font-size: large;
+}

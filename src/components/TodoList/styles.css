@@ -1,0 +1,12 @@
+.container{
+  width: 100%;
+
+}
+.scrollable-div {
+  background-color: #f1f1f1;
+  height: 72vh;
+  overflow: auto;
+  margin: 0px;
+  text-align: justify;
+  padding: 10px;
+}

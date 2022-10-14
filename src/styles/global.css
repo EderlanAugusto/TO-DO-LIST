@@ -1,0 +1,10 @@
+* {
+  margin: 5;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: gainsboro ;
+  color: #F2F2F2;
+  min-height: 100vh;
+}
