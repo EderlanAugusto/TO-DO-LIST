@@ -14,9 +14,9 @@ To-do List in React using mui-material e saved in localstorage.
   </tr>
  </table>
 
-# App TO-DO-LIST running
+# Demo
 
-(https://ederlanaugusto.github.io/TO-DO-LIST/)
+https://ederlanaugusto.github.io/TO-DO-LIST
 
 # Clone project
 ```sh
